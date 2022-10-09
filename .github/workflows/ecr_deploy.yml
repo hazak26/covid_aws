@@ -1,4 +1,4 @@
-name: Deploy to ECRR
+name: Deploy to ECR
 
 on:
  
